@@ -4,5 +4,5 @@ Step to Follow
 
 Step 1-Clone project
 Step 2-Run npm i
-Step 3 check on outout
+Step 3-Check on output
 
